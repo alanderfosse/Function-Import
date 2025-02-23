@@ -1,4 +1,4 @@
-# Function-Import
+# Single Function-Import
 GET method
 
 This is a sample example with Odata GET method
